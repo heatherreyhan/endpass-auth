@@ -36,7 +36,7 @@
     },
     "createPassword": {
       "confirmError": "Something went wrong while creating a password. Please, try again",
-      "description": "You have no regular password for the Endpass account. This password for login only.",
+      "description": "Your Endpass account doesn 't have a password yet. Please set up a password, and enter your authentication code below when you're ready to confirm.",
       "labelCode": "Code from email",
       "labelCodeEmail": "Code from: {email}",
       "newPassword": "Enter new password...",

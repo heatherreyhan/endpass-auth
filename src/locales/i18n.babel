@@ -1,4 +1,4 @@
-<babeledit_project version="1.2">
+<babeledit_project be_version="2.6.1" version="1.2">
     <!--
 
     BabelEdit project file
@@ -2511,5 +2511,6 @@
     <configuration>
         <indent>space2</indent>
         <format>namespaced-json</format>
+        <support_arrays>true</support_arrays>
     </configuration>
 </babeledit_project>
